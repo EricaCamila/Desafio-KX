@@ -2,16 +2,16 @@
 
 ## 📚 Sobre a Disciplina  
 **Disciplina**: MIC014 – Hands-On Basic  
-**Atividade**: Maker Aula XXX  
+**Atividade**: Maker Aula XXXXXXXXXXXXXX  
 **Assunto**: Avanço e melhorias no projeto do **NOME PROJETO**
 
 ## 🚀 Projeto  
-Este repositório contém a implementação e evolução de um projeto de .....
+Este repositório contém a implementação e evolução de um projeto de XXXXXXXXXXXXXX
 
 ---
 
-## 🏆 Desafio Kxxxxx - xxxxxxxxxxx
-O objetivo é construir uma solução funcional e testável para xxxxxxxxxxxxxxxxxxx.
+## 🏆 Desafio KXXXXXXXXXXXXXX - NOME PROJETO
+O objetivo é construir uma solução funcional e testável para XXXXXXXXXXXXXX.
 
 ---
 
